@@ -1,0 +1,13 @@
+{
+    "name": "chronos/excel_php",
+    "authors": [
+        {
+            "name": "banutri",
+            "email": "banutriyantoko@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.25",
+        "dompdf/dompdf": "^2.0"
+    }
+}
